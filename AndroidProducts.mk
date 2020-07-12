@@ -14,4 +14,4 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/bootleg_mido.mk
+    $(LOCAL_DIR)/lineage_mido.mk
